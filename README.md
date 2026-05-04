@@ -55,6 +55,9 @@ python main.py
 
 # 3. Open notebook for charts
 jupyter notebook notebooks/exploration.ipynb
+
+# 4. Open notebook checkpoints for charts and final output
+notebooks/.ipynb_checkpoints/exploration-checkpoint.ipynb
 ```
 
 ---
