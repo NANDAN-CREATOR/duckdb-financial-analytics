@@ -1,0 +1,2 @@
+# duckdb-financial-analytics
+
