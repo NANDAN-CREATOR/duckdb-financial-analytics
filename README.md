@@ -8,7 +8,7 @@
 
 ## What This Project Does
 
-Simulates a **Wealth & Asset Management (WAM)** data engineering pipeline:
+Simulates a **Asset Management (AM)** data engineering pipeline:
 
 1. **Ingests** daily price data and portfolio holdings as Parquet files
 2. **Transforms** with pure DuckDB SQL — daily returns, cumulative returns, rolling volatility, monthly summaries
@@ -120,12 +120,12 @@ Technology       48.75        40.0      +8.75
 
 ## Author
 
-**Aman Kumar** — Senior Data Engineer, EY GDS (FSO / Wealth & Asset Management)
+**Aman Kumar** — Senior Data Engineer, EY GDS
 
-- Medium: [Databricks Use Cases Decoded](https://medium.com/@aman)
+- Medium: [Data engineering Use Cases Decoded](https://medium.com/@aman)
 - LinkedIn: [linkedin.com/in/aman-nandan-7b184b143](https://linkedin.com/in/aman-nandan-7b184b143)
 - GitHub: [github.com/aman-nandan](https://github.com/aman-nandan)
 
 ---
 
-*Part of the **Databricks Use Cases Decoded** series — real-world data engineering patterns for financial services.*
+*Part of the **Data engineering Use Cases Decoded** series — real-world data engineering patterns for financial services.*
